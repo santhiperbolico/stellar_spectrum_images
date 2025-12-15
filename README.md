@@ -1,10 +1,3 @@
-Perfect 👍
-Here is a **clean, GitHub-ready `README.md` in English**, written in a professional but approachable style, and aligned with what your code actually does.
-
-You can **copy–paste this directly** into your repository.
-
----
-
 # 🌈 Stellar Spectrum Image Generator
 
 This project generates **horizontal, photo-style visualizations of stellar spectra** from **FITS files**, transforming spectral flux data into a **physically-based visible light color representation**.

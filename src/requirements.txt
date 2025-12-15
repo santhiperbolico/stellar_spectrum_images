@@ -1,0 +1,7 @@
+astroquery
+
+# Data Science
+matplotlib
+seaborn
+pandas
+scipy
